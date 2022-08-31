@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314547423331",
+    "project_id": "deli-pizza-38d7f",
+    "storage_bucket": "deli-pizza-38d7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314547423331:android:24bc70437a67623b191056",
+        "android_client_info": {
+          "package_name": "com.example.deli_pizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314547423331-0r4p8lj1h5lgr1fae3ncu223qkk2om2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfWDu2YRM1QXlK2P9czA7kJLAcu9LDj1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314547423331-0r4p8lj1h5lgr1fae3ncu223qkk2om2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
